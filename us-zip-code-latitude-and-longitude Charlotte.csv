@@ -1,4 +1,4 @@
-Zip;City;State;Latitude;Longitude;Timezone;Daylight savings time flag;geopoint
+Zip;City;State;Latitude;Longitude;Timezone;Daylightsavingstimeflag;geopoint
 28261;Charlotte;NC;35.26002;-80.804151;-5;1;35.26002;-80.804151
 28219;Charlotte;NC;35.26002;-80.804151;-5;1;35.26002;-80.804151
 28260;Charlotte;NC;35.26002;-80.804151;-5;1;35.26002;-80.804151
